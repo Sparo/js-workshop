@@ -13,3 +13,6 @@ Practice programming and logical skills...
 * after your solution is ready you can test it simply by typing `npm run check` in the terminal of the root of the project
 * first you will need to choose the task in the terminal
 * after that you will see tests passing or failing for all solutions in a selected task
+
+# push changes
+when you are pleased with the solution feel free to commit and push it into the repo so everyone can see and follow it
