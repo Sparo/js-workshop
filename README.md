@@ -1,5 +1,5 @@
 # js-workshop
-Practice programming and logical skills...
+ Practice programming and logical skills...
 
 # before you start
 * execute `npm i`
@@ -15,4 +15,4 @@ Practice programming and logical skills...
 * after that you will see tests passing or failing for all solutions in a selected task
 
 # push changes
-when you are pleased with the solution feel free to commit and push it into the repo so everyone can see and follow it
+ when you are pleased with the solution feel free to commit and push it into the repo so everyone can see and follow it
