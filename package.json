@@ -1,0 +1,33 @@
+{
+  "name": "js-workshop",
+  "version": "1.0.0",
+  "description": "Practice programming and logical skills...",
+  "main": "index.js",
+  "scripts": {
+    "check": "node index.js && npm test",
+    "test": "./node_modules/mocha/bin/mocha ./tests/spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sparo/js-workshop.git"
+  },
+  "keywords": [
+    "programming",
+    "practice",
+    "test",
+    "skills",
+    "logical"
+  ],
+  "author": "Nenad Sparic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sparo/js-workshop/issues"
+  },
+  "homepage": "https://github.com/Sparo/js-workshop#readme",
+  "dependencies": {
+    "ansidown": "0.0.1",
+    "chai": "^4.2.0",
+    "inquirer": "^7.3.3",
+    "mocha": "^8.2.1"
+  }
+}
