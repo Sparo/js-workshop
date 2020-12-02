@@ -2,8 +2,8 @@
  Practice programming and logical skills...
 
 # requironments
- `node -v lts` - so you can use latest JS features
- `npm` - whichever comes with `lts` `node`
+ `node -v` should be any `lts` version (required)
+ `npm` - whichever comes with `node lts`
 
 # before you start
 * execute `npm i`
