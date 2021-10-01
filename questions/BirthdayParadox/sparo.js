@@ -60,7 +60,7 @@ const izvestaj = function () {
         return {
             test: 4,
             uzorak_ljudi: res.uzorak,
-            verovatnoca_rodjendana: percentFormated
+            verovatnoca_poklapanja_rodjendana: percentFormated
         };
     });
 
