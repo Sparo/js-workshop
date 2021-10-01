@@ -58,6 +58,7 @@ const izvestaj = function () {
         const percentFormated = percent > 50 && percent < 55 ? `>> ${percent} % <<` : `${percent} %`;
 
         return {
+            test: 4,
             uzorak_ljudi: res.uzorak,
             verovatnoca_rodjendana: percentFormated
         };
